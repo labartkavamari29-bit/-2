@@ -1,0 +1,35 @@
+.salad {
+  color: #2c3e50;
+}
+
+.cold {
+  color: #2c3e50;
+}
+
+.hot {
+  color: #2c3e50;
+}
+
+.cucumber {
+  background-color: #f8f9fa;
+}
+
+.cezar {
+  background-color: #f8f9fa;
+}
+
+.eggplant {
+  background-color: #f8f9fa;
+}
+
+.ostri {
+  background-color: #f8f9fa;
+}
+
+.garlic {
+  background-color: #f8f9fa;
+}
+.styletable td,
+.styletable th {
+  border: 1px solid #ddd;
+}
